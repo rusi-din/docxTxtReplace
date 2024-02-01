@@ -1,0 +1,8 @@
+Docx Txt replace error list
+1  -  File Does not exist
+2 - File is not a docx
+3 - File is not a docx in output side
+4 - No file path provided
+5 - No search string provided
+6 - No replace string provided
+7 - search string is not found in file
